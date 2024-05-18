@@ -1,0 +1,2 @@
+# MULTI-OBJECTIVE-OPTIMIZED-DESIGN-OF-GEOSYNTHETIC-REINFORCED-EARTH-RETAINING-WALL-USING-NSGA-II-
+This project focuses on the multi-objective optimization of geosynthetic reinforced earth (GRE) retaining wall design using NSGA-II. The conflicting objectives considered are minimizing the total cost and maximizing the wall height. The optimization problem is formulated by considering various design constraints related stability.
